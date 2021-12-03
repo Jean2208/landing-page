@@ -1,0 +1,66 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+  font-family: 'Montserrat', sans-serif;
+    background: url(header.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.container{
+  text-transform: uppercase;
+}
+
+h1{
+  color: rgb(255,255,255,1);
+  font-size: 3em;
+}
+
+.b1{
+  height: 250px;
+}
+
+hr{
+  opacity: 1;
+  background-color: rgb(255,150,71);
+  border-width: 3px;
+  max-width: 60px;
+  min-height: 2px;
+  margin: auto;
+}
+
+.b2{
+  height: 10px;
+}
+.btn{
+  font-weight: 700;
+  border-radius: 300px;
+  text-transform: uppercase;
+  background-color: rgb(255,150,71);
+  padding: 1rem;
+  border-color: rgb(255,150,71);
+}
+
+.btn:hover{
+  background-color: tomato;
+  border-color:tomato;
+  transition: all 0.5s;
+  transform: scale(1.05);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
